@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ridho%20Syahfero&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20%26%20Android%20Developer&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=160&section=header&text=Ridho%20Syahfero&fontSize=42&fontColor=fff&fontAlignY=38&desc=Fullstack%20and%20Android%20Developer&descAlignY=58&descAlign=50"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer+💻;Android+%26+Flutter+Developer+📱;React+%2F+Next.js+Enthusiast+⚛️;Always+Learning%2C+Always+Building+🚀)](https://git.io/typing-svg)
 
@@ -127,6 +127,6 @@ const ridho = {
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
 
 </div>
