@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=160&section=header&text=Ridho%20Syahfero&fontSize=42&fontColor=fff&fontAlignY=38&desc=Fullstack%20and%20Android%20Developer&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://raw.githubusercontent.com/RidhoS22/RidhoS22/main/background.jpg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer+💻;Android+%26+Flutter+Developer+📱;React+%2F+Next.js+Enthusiast+⚛️;Always+Learning%2C+Always+Building+🚀)](https://git.io/typing-svg)
 
