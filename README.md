@@ -81,15 +81,7 @@ const ridho = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RidhoS22&theme=tokyonight&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📌 Featured Projects
 
