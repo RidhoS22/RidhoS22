@@ -88,6 +88,7 @@ const ridho = {
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidhoS22&repo=Entree&theme=tokyonight)](https://github.com/RidhoS22/Entree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RidhoS22&repo=Entree&theme=tokyonight)](https://github.com/RidhoS22/Bhuwana_Guard_Mobile)
 
 </div>
 
