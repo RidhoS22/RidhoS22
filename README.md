@@ -1,28 +1,20 @@
 <div align="center">
 
-  <!-- MODERN ANIMATED HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=Blur&color=0:0D1117,50:1E1B4B,100:3B82F6&height=200&section=header&text=Ridho%20Syahfero&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=%E2%9A%A1%20Fullstack%20Web%20%26%20Mobile%20Developer%20%E2%9A%A1&descAlignY=65&descSize=18" width="100%" />
+  <!-- MODERN GRADIENT WAVING HEADER (100% WORK) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:3b82f6&height=200&section=header&text=Ridho%20Syahfero&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Modern+Web+%26+Cross-Platform+Mobile+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Kotlin+%E2%80%A2+Flutter+%E2%80%A2+TypeScript;Turning+Complex+Problems+into+Clean+Code+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+%26+Cross-Platform+Mobile+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Kotlin+%E2%80%A2+Flutter+%E2%80%A2+TypeScript;Turning+Complex+Problems+into+Clean+Code+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- MODERN PILL BADGES -->
-  <p align="center">
-    <a href="https://linkedin.com/in/ridho-syahfero-a0293228b">
-      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=161B22" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/_ridhosyahfero">
-      <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=EC4899&labelColor=161B22" alt="Instagram" />
-    </a>
-    <a href="mailto:ridhosyahfero35@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F43F5E&labelColor=161B22" alt="Gmail" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=RidhoS22&label=Profile%20Views&color=38BDF8&style=for-the-badge&labelColor=161B22" alt="Profile Views" />
-  </p>
+  <!-- SOCIAL MEDIA & PROFILE VIEWS (CENTERED & SOLID COLORS) -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridho-syahfero-a0293228b)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ridhosyahfero)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhosyahfero35@gmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=RidhoS22&label=Profile%20Views&color=3b82f6&style=for-the-badge)
 
 </div>
 
@@ -139,5 +131,5 @@
 <div align="center">
   <sub><i>"First, solve the problem. Then, write the code." — <b>John Johnson</b></i></sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:3B82F6&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:3b82f6&height=80&section=footer" width="100%" alt="Footer" />
 </div>
