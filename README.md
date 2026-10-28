@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- HEADER BANNER (MENGGUNAKAN FORMAT SOLID YANG 100% PASTI JALAN) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Ridho%20Syahfero&fontSize=45&fontColor=fff&fontAlignY=38&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descAlign=50" width="100%" />
+  <!-- HEADER BANNER (BEBAS SIMBOL '&' AGAR XML SVG 100% VALID) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:3b82f6&height=180&section=header&text=Ridho%20Syahfero&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20and%20Mobile%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+%26+Cross-Platform+Mobile+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Kotlin+%E2%80%A2+Flutter+%E2%80%A2+TypeScript;Turning+Complex+Problems+into+Clean+Code+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+and+Cross-Platform+Mobile+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Kotlin+%E2%80%A2+Flutter+%E2%80%A2+TypeScript;Turning+Complex+Problems+into+Clean+Code+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- SOCIAL MEDIA & PROFILE VIEWS (HTML MURNI AGAR RAPI DI TENGAH) -->
+  <!-- SOCIAL MEDIA & PROFILE VIEWS -->
   <p align="center">
     <a href="https://linkedin.com/in/ridho-syahfero-a0293228b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,7 +21,7 @@
     <a href="mailto:ridhosyahfero35@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=RidhoS22&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=RidhoS22&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
@@ -45,7 +45,7 @@
       </ul>
     </td>
     <td width="45%" valign="middle" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=RidhoS22&theme=dark&hide_border=true&background=0D1117&stroke=1F2937&ring=6366F1&fire=38BDF8&currStreakLabel=38BDF8&sideNums=E5E7EB&currStreakNum=FFFFFF&sideLabels=9CA3AF&dates=6B7280" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=RidhoS22&theme=dark&hide_border=true&background=0D1117&stroke=1F2937&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideNums=E5E7EB&currStreakNum=FFFFFF&sideLabels=9CA3AF&dates=6B7280" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -139,5 +139,5 @@
 <div align="center">
   <sub><i>"First, solve the problem. Then, write the code." — <b>John Johnson</b></i></sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:3b82f6&height=100&section=footer" width="100%" alt="Footer" />
 </div>
