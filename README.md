@@ -12,7 +12,7 @@
 
   <!-- MODERN PILL BADGES -->
   <p align="center">
-    <a href="https://linkedin.com/in/Ridho-Syahfero">
+    <a href="https://linkedin.com/in/ridho-syahfero-a0293228b">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=161B22" alt="LinkedIn" />
     </a>
     <a href="https://instagram.com/_ridhosyahfero">
@@ -56,7 +56,7 @@
 <h2 align="center">🛠️ Tech Arsenal & Ecosystem</h2>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td align="center" width="25%">
         <b>🌐 Frontend Web</b><br/><br/>
@@ -80,33 +80,46 @@
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS (NATIVE BENTO CARDS - 100% ANTI BROKEN IMAGE) -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/RidhoS22/Entree">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RidhoS22&repo=Entree&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=9CA3AF&icon_color=818CF8" alt="Entree" />
-  </a>
-  <a href="https://github.com/RidhoS22/Bhuwana_Guard_Mobile">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RidhoS22&repo=Bhuwana_Guard_Mobile&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=9CA3AF&icon_color=818CF8" alt="Bhuwana Guard Mobile" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🌐 <a href="https://github.com/RidhoS22/Entree">Entree</a></h3>
+      <p>Platform aplikasi web modern dengan antarmuka responsif dan arsitektur fullstack yang dirancang untuk performa serta skalabilitas tinggi.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
+        <img src="https://img.shields.io/badge/Web_App-38BDF8?style=flat-square&labelColor=161B22" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">📱 <a href="https://github.com/RidhoS22/Bhuwana_Guard_Mobile">Bhuwana Guard Mobile</a></h3>
+      <p>Aplikasi mobile terintegrasi untuk pemantauan dan pelaporan lapangan secara <i>real-time</i> dengan antarmuka yang intuitif dan responsif.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Kotlin-161B22?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+        <img src="https://img.shields.io/badge/Android-161B22?style=flat-square&logo=android&logoColor=3DDC84" />
+        <img src="https://img.shields.io/badge/Mobile_App-818CF8?style=flat-square&labelColor=161B22" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- GITHUB ANALYTICS & TELEMETRY -->
+<!-- GITHUB ANALYTICS & TELEMETRY (STABLE SERVER) -->
 <h2 align="center">📊 GitHub Telemetry & Analytics</h2>
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RidhoS22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&icon_color=818CF8&rank_icon=github" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoS22&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RidhoS22&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RidhoS22&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<br/>
-
-<!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RidhoS22&bg_color=0D1117&color=9CA3AF&line=38BDF8&point=818CF8&area=true&area_color=1E1B4B&hide_border=true" alt="Activity Graph" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidhoS22&theme=tokyonight" alt="Profile Details & Activity Graph" />
 </div>
 
 <br/>
