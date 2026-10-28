@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- MODERN GRADIENT WAVING HEADER (100% WORK) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:3b82f6&height=200&section=header&text=Ridho%20Syahfero&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header" />
+  <!-- HEADER BANNER (MENGGUNAKAN FORMAT SOLID YANG 100% PASTI JALAN) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=180&section=header&text=Ridho%20Syahfero&fontSize=45&fontColor=fff&fontAlignY=38&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descAlignY=58&descAlign=50" width="100%" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -10,11 +10,19 @@
 
   <br/><br/>
 
-  <!-- SOCIAL MEDIA & PROFILE VIEWS (CENTERED & SOLID COLORS) -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridho-syahfero-a0293228b)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ridhosyahfero)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridhosyahfero35@gmail.com)
-  ![Profile Views](https://komarev.com/ghpvc/?username=RidhoS22&label=Profile%20Views&color=3b82f6&style=for-the-badge)
+  <!-- SOCIAL MEDIA & PROFILE VIEWS (HTML MURNI AGAR RAPI DI TENGAH) -->
+  <p align="center">
+    <a href="https://linkedin.com/in/ridho-syahfero-a0293228b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/_ridhosyahfero" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:ridhosyahfero35@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=RidhoS22&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  </p>
 
 </div>
 
@@ -37,7 +45,7 @@
       </ul>
     </td>
     <td width="45%" valign="middle" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=RidhoS22&theme=dark&hide_border=true&background=0D1117&stroke=1F2937&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideNums=E5E7EB&currStreakNum=FFFFFF&sideLabels=9CA3AF&dates=6B7280" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=RidhoS22&theme=dark&hide_border=true&background=0D1117&stroke=1F2937&ring=6366F1&fire=38BDF8&currStreakLabel=38BDF8&sideNums=E5E7EB&currStreakNum=FFFFFF&sideLabels=9CA3AF&dates=6B7280" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -131,5 +139,5 @@
 <div align="center">
   <sub><i>"First, solve the problem. Then, write the code." — <b>John Johnson</b></i></sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:3b82f6&height=80&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%" />
 </div>
